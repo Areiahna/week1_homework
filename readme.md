@@ -14,16 +14,17 @@ Scroll down & click big green button that says "Create repository"
 #4 ---- cd into directory of project 
 
 #5 ---- "git init"
- *this will initialize that directory*
+ (*this will initialize that directory*)
 
 #6 ---- git remote add origin [SSH KEY]
 
 #6 ---- git add .
-    *It is important to add the "." beacuse it will add everything in the current directory to your repo!*
+    (*It is important to add the "." because it will add everything in the current directory to your repo!*)
 
 #7 ---- git commit -m "[ENTER MESSAGE]"
-    *MUST ADD MESSAGE describing what your pushing to the repo! "First commit" is always a go to for your initial commit"
+    (*MUST ADD MESSAGE describing what your pushing to the repo! "First commit" is always a go to for your initial commit"*)
 
 #8 ---- git push origin main
+
 
 
